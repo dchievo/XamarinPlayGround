@@ -15,7 +15,7 @@ namespace PracticeCSharpBasics1
 
             singleton.forLoop();
             singleton.GetHashCode();
-            Console.ReadLine();
+            Console.ReadLine(); asdfasdf
         }
 
     }
